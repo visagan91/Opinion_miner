@@ -205,3 +205,55 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.ipynb_checkpoints/
+*.egg-info/
+
+# ---- Environments ----
+.venv/
+venv/
+env/
+ENV/
+*.env
+Pipfile.lock
+poetry.lock
+
+# ---- OS & IDE Specific ----
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ---- Output Files ----
+# Keep folders but ignore their contents
+output/*
+!output/.gitkeep
+
+figures/*
+!figures/.gitkeep
+
+# ---- Logs & Temp ----
+*.log
+*.tmp
+*.bak
+
+# ---- Checkpoints/Model Files ----
+*.pt
+*.h5
+*.ckpt
+*.pkl
+*.joblib
+
+# ---- CSV & Datasets ----
+data/
+*.csv
+!output/cleaned_reviews.csv
+!output/opinion_summary_*.csv
+!output/relation_mapping_*.csv
+!output/comparison_result.csv

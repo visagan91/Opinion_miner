@@ -1,0 +1,110 @@
+domain_x,aspect,sentence,opinion_word,rule_sentiment,method_x,domain_y,bert_sentiment,confidence,method_y,agreement
+norton,support,managed manually add program file contacted symantec support,symantec,neutral,rule-based,norton,neutral,0.469,bert-based,True
+norton,support,managed manually add program file contacted symantec support,symantec,neutral,rule-based,norton,neutral,0.469,bert-based,True
+norton,support,managed manually add program file contacted symantec support,symantec,neutral,rule-based,norton,neutral,0.469,bert-based,True
+norton,support,managed manually add program file contacted symantec support,symantec,neutral,rule-based,norton,neutral,0.469,bert-based,True
+Nokia 6600,phone,market new business capable phone dont want deal stylus equipped pda like device p900 6600 probably suit fine,capable,positive,rule-based,Nokia 6600,neutral,0.472,bert-based,False
+Hitachi router,router,exclusive use double router table building,double,neutral,rule-based,Hitachi router,positive,0.448,bert-based,False
+Hitachi router,router,exclusive use double router table building,double,neutral,rule-based,Hitachi router,positive,0.448,bert-based,False
+Hitachi router,router,exclusive use double router table building,double,neutral,rule-based,Hitachi router,positive,0.448,bert-based,False
+Hitachi router,router,exclusive use double router table building,double,neutral,rule-based,Hitachi router,positive,0.448,bert-based,False
+Hitachi router,router,reciently purchased 1 12hp plunge router different name brand couldnt hack,12hp,neutral,rule-based,Hitachi router,negative,0.41,bert-based,False
+Hitachi router,router,reciently purchased 1 12hp plunge router different name brand couldnt hack,12hp,neutral,rule-based,Hitachi router,negative,0.41,bert-based,False
+Hitachi router,router,reciently purchased 1 12hp plunge router different name brand couldnt hack,12hp,neutral,rule-based,Hitachi router,negative,0.41,bert-based,False
+Hitachi router,router,reciently purchased 1 12hp plunge router different name brand couldnt hack,12hp,neutral,rule-based,Hitachi router,negative,0.41,bert-based,False
+Hitachi router,router,reciently purchased 1 12hp plunge router different name brand couldnt hack,12hp,neutral,rule-based,Hitachi router,negative,0.41,bert-based,False
+Hitachi router,router,reciently purchased 1 12hp plunge router different name brand couldnt hack,12hp,neutral,rule-based,Hitachi router,negative,0.41,bert-based,False
+Hitachi router,router,reciently purchased 1 12hp plunge router different name brand couldnt hack,12hp,neutral,rule-based,Hitachi router,negative,0.41,bert-based,False
+Hitachi router,router,reciently purchased 1 12hp plunge router different name brand couldnt hack,12hp,neutral,rule-based,Hitachi router,negative,0.41,bert-based,False
+Hitachi router,router,reciently purchased 1 12hp plunge router different name brand couldnt hack,12hp,neutral,rule-based,Hitachi router,negative,0.41,bert-based,False
+ipod,ipod,personal advice youre saving lot money personal experience docking station really sort ripoff based sleek design ipod easy simply lay without damaging anything,sleek,positive,rule-based,ipod,negative,0.499,bert-based,False
+ipod,battery,see great little short film go ipodsdirtysecretcom basically disposable device idea battery goes buy latest model ipod,disposable,neutral,rule-based,ipod,negative,0.699,bert-based,False
+ipod,battery,year battery dead need replace new one,dead,negative,rule-based,ipod,negative,0.869,bert-based,True
+Diaper Champ,diaper,flip handle diaper gone,flip,neutral,rule-based,Diaper Champ,negative,0.589,bert-based,False
+Diaper Champ,champ,one child champ may last child diapers,last,neutral,rule-based,Diaper Champ,neutral,0.409,bert-based,True
+Linksys Router,works,standard modem works 56k tops,standard,neutral,rule-based,Linksys Router,neutral,0.502,bert-based,True
+Linksys Router,support,used linksys technical support several times,technical,neutral,rule-based,Linksys Router,neutral,0.475,bert-based,True
+Linksys Router,router,upgraded network wireless router,wireless,neutral,rule-based,Linksys Router,positive,0.523,bert-based,False
+Canon S100,size,people reviews complain small size doesnt compare larger cameras,small,neutral,rule-based,Canon S100,negative,0.913,bert-based,False
+Canon S100,size,people reviews complain small size doesnt compare larger cameras,small,neutral,rule-based,Canon S100,negative,0.913,bert-based,False
+Canon S100,size,people reviews complain small size doesnt compare larger cameras,small,neutral,rule-based,Canon S100,negative,0.913,bert-based,False
+Canon S100,size,people reviews complain small size doesnt compare larger cameras,small,neutral,rule-based,Canon S100,negative,0.913,bert-based,False
+Canon S100,camera,little skeptical people said camera small,small,neutral,rule-based,Canon S100,negative,0.85,bert-based,False
+Canon S100,camera,little skeptical people said camera small,small,neutral,rule-based,Canon S100,negative,0.85,bert-based,False
+Canon S100,camera,little skeptical people said camera small,small,neutral,rule-based,Canon S100,negative,0.85,bert-based,False
+Canon S100,camera,little skeptical people said camera small,small,neutral,rule-based,Canon S100,negative,0.85,bert-based,False
+MicroMP3,features,list nice features little longer also contains nothing unreasonable backlit screen removable battery fm radio feature id3 tag line support lots storage,nice,positive,rule-based,MicroMP3,positive,0.827,bert-based,True
+MicroMP3,features,list nice features little longer also contains nothing unreasonable backlit screen removable battery fm radio feature id3 tag line support lots storage,nice,positive,rule-based,MicroMP3,positive,0.827,bert-based,True
+MicroMP3,battery,list nice features little longer also contains nothing unreasonable backlit screen removable battery fm radio feature id3 tag line support lots storage,removable,neutral,rule-based,MicroMP3,positive,0.861,bert-based,False
+MicroMP3,features,list nice features little longer also contains nothing unreasonable backlit screen removable battery fm radio feature id3 tag line support lots storage,nice,positive,rule-based,MicroMP3,positive,0.827,bert-based,True
+MicroMP3,features,list nice features little longer also contains nothing unreasonable backlit screen removable battery fm radio feature id3 tag line support lots storage,nice,positive,rule-based,MicroMP3,positive,0.827,bert-based,True
+MicroMP3,player,must say tons research chosen right mp3 player,right,positive,rule-based,MicroMP3,positive,0.554,bert-based,True
+MicroMP3,player,much research decided zen micro best mp3 player,best,positive,rule-based,MicroMP3,positive,0.748,bert-based,True
+MicroMP3,player,much research decided zen micro best mp3 player,best,positive,rule-based,MicroMP3,positive,0.748,bert-based,True
+MicroMP3,player,much research decided zen micro best mp3 player,best,positive,rule-based,MicroMP3,positive,0.748,bert-based,True
+MicroMP3,player,much research decided zen micro best mp3 player,best,positive,rule-based,MicroMP3,positive,0.748,bert-based,True
+MicroMP3,battery,wanted go grain idea shell another 100 bucks year order apple replace nonremovable battery turned,nonremovable,neutral,rule-based,MicroMP3,negative,0.608,bert-based,False
+MicroMP3,converter,comes builtin program simply entitled creative mediasource audio converter,creative,positive,rule-based,MicroMP3,positive,0.451,bert-based,True
+Canon PowerShot SD500,camera,unlike many compact ps cameras camera af assist lamp essential focusing dark areas,many,neutral,rule-based,Canon PowerShot SD500,positive,0.531,bert-based,False
+Canon PowerShot SD500,camera,unlike many compact ps cameras camera af assist lamp essential focusing dark areas,many,neutral,rule-based,Canon PowerShot SD500,positive,0.531,bert-based,False
+Canon PowerShot SD500,camera,unlike many compact ps cameras camera af assist lamp essential focusing dark areas,many,neutral,rule-based,Canon PowerShot SD500,positive,0.531,bert-based,False
+Canon PowerShot SD500,camera,unlike many compact ps cameras camera af assist lamp essential focusing dark areas,many,neutral,rule-based,Canon PowerShot SD500,positive,0.531,bert-based,False
+Canon PowerShot SD500,camera,unlike many compact ps cameras camera af assist lamp essential focusing dark areas,many,neutral,rule-based,Canon PowerShot SD500,positive,0.531,bert-based,False
+Canon PowerShot SD500,camera,unlike many compact ps cameras camera af assist lamp essential focusing dark areas,many,neutral,rule-based,Canon PowerShot SD500,positive,0.531,bert-based,False
+Canon PowerShot SD500,camera,unlike many compact ps cameras camera af assist lamp essential focusing dark areas,many,neutral,rule-based,Canon PowerShot SD500,positive,0.531,bert-based,False
+Canon PowerShot SD500,camera,unlike many compact ps cameras camera af assist lamp essential focusing dark areas,many,neutral,rule-based,Canon PowerShot SD500,positive,0.531,bert-based,False
+Canon PowerShot SD500,camera,unlike many compact ps cameras camera af assist lamp essential focusing dark areas,many,neutral,rule-based,Canon PowerShot SD500,positive,0.531,bert-based,False
+Computer,price,came across acer read reviews andi little skeptical price right,little,neutral,rule-based,Computer,negative,0.89,bert-based,False
+Computer,screen,limited space enough room wide screen monitor,wide,neutral,rule-based,Computer,neutral,0.465,bert-based,True
+Computer,screen,limited space enough room wide screen monitor,wide,neutral,rule-based,Computer,neutral,0.465,bert-based,True
+Computer,screen,limited space enough room wide screen monitor,wide,neutral,rule-based,Computer,neutral,0.465,bert-based,True
+Computer,screen,limited space enough room wide screen monitor,wide,neutral,rule-based,Computer,neutral,0.465,bert-based,True
+Computer,screen,change 120 hz advanced screen resolution settings windows 7,advanced,positive,rule-based,Computer,neutral,0.442,bert-based,False
+Computer,screen,change 120 hz advanced screen resolution settings windows 7,advanced,positive,rule-based,Computer,neutral,0.442,bert-based,False
+Computer,screen,change 120 hz advanced screen resolution settings windows 7,advanced,positive,rule-based,Computer,neutral,0.442,bert-based,False
+Computer,screen,change 120 hz advanced screen resolution settings windows 7,advanced,positive,rule-based,Computer,neutral,0.442,bert-based,False
+Speaker,sound,reviews sound quality true,true,neutral,rule-based,Speaker,positive,0.91,bert-based,False
+Speaker,speakers,although bass im getting speakers unexpected,unexpected,negative,rule-based,Speaker,negative,0.446,bert-based,True
+Speaker,speakers,logitech introduced new line lapdesks builtin external speakers portable computers excited,builtin,neutral,rule-based,Speaker,positive,0.989,bert-based,False
+Speaker,sound,rrb ps btw robbery never occurred got home safe sound,safe,positive,rule-based,Speaker,positive,0.525,bert-based,True
+Speaker,sound,make equalizer adjustments every different song make sound right,right,positive,rule-based,Speaker,positive,0.48,bert-based,True
+Speaker,sound,make equalizer adjustments every different song make sound right,right,positive,rule-based,Speaker,positive,0.48,bert-based,True
+Speaker,sound,make equalizer adjustments every different song make sound right,right,positive,rule-based,Speaker,positive,0.48,bert-based,True
+Speaker,sound,make equalizer adjustments every different song make sound right,right,positive,rule-based,Speaker,positive,0.48,bert-based,True
+Speaker,sound,make equalizer adjustments every different song make sound right,right,positive,rule-based,Speaker,positive,0.48,bert-based,True
+Speaker,sound,make equalizer adjustments every different song make sound right,right,positive,rule-based,Speaker,positive,0.48,bert-based,True
+Speaker,sound,make equalizer adjustments every different song make sound right,right,positive,rule-based,Speaker,positive,0.48,bert-based,True
+Speaker,sound,make equalizer adjustments every different song make sound right,right,positive,rule-based,Speaker,positive,0.48,bert-based,True
+Speaker,sound,make equalizer adjustments every different song make sound right,right,positive,rule-based,Speaker,positive,0.48,bert-based,True
+Speaker,sound,chose system particular thx certified knew unlikely sound disappointingly bad,unlikely,negative,rule-based,Speaker,negative,0.99,bert-based,True
+Speaker,devise,rarely review type electronic devise sort uncharted territory,electronic,neutral,rule-based,Speaker,neutral,0.524,bert-based,True
+Speaker,device,doubtful device would able anything helpful laptop virtually turned laptop stereo system,doubtful,negative,rule-based,Speaker,negative,0.757,bert-based,True
+Router,router,previous wireless router years worked fine,wireless,neutral,rule-based,Router,positive,0.577,bert-based,False
+Router,router,first router fast enough handle video streaming needs,enough,positive,rule-based,Router,positive,0.621,bert-based,True
+Router,router,first router fast enough handle video streaming needs,enough,positive,rule-based,Router,positive,0.621,bert-based,True
+Router,router,first router fast enough handle video streaming needs,enough,positive,rule-based,Router,positive,0.621,bert-based,True
+Router,router,first router fast enough handle video streaming needs,enough,positive,rule-based,Router,positive,0.621,bert-based,True
+Nokia 6610,phone,think good mobile phone may buy,good,positive,rule-based,Nokia 6610,positive,0.966,bert-based,True
+Nokia 6610,phone,requires significant force operate scary small phone,scary,negative,rule-based,Nokia 6610,negative,0.794,bert-based,True
+Nokia 6610,phone,get phone cingular att go carriers,cingular,neutral,rule-based,Nokia 6610,neutral,0.473,bert-based,True
+Canon G3,camera,nt good camera features access quickly need,good,positive,rule-based,Canon G3,negative,0.914,bert-based,False
+Canon G3,camera,know whole lot photography happy know camera always perform even grow skill knowledge,happy,positive,rule-based,Canon G3,positive,0.984,bert-based,True
+Canon G3,camera,looking outstanding camera take simple complex,outstanding,positive,rule-based,Canon G3,positive,0.95,bert-based,True
+Canon G3,camera,looking outstanding camera take simple complex,outstanding,positive,rule-based,Canon G3,positive,0.95,bert-based,True
+Canon G3,camera,looking outstanding camera take simple complex,outstanding,positive,rule-based,Canon G3,positive,0.95,bert-based,True
+Canon G3,camera,looking outstanding camera take simple complex,outstanding,positive,rule-based,Canon G3,positive,0.95,bert-based,True
+Canon G3,camera,first digital camera,digital,neutral,rule-based,Canon G3,neutral,0.483,bert-based,True
+Creative Labs Nomad Jukebox Zen Xtra 40GB,player,want sexy cool accessoryavailible mp3 player means get ipod hundred dollars one price holds 13 music,sexy,positive,rule-based,Creative Labs Nomad Jukebox Zen Xtra 40GB,positive,0.502,bert-based,True
+Creative Labs Nomad Jukebox Zen Xtra 40GB,warranty,store definitely get extended warranty another day purchase date obtain one,extended,neutral,rule-based,Creative Labs Nomad Jukebox Zen Xtra 40GB,neutral,0.452,bert-based,True
+Creative Labs Nomad Jukebox Zen Xtra 40GB,interface,reason ipod better user interface,ipod,neutral,rule-based,Creative Labs Nomad Jukebox Zen Xtra 40GB,positive,0.536,bert-based,False
+Creative Labs Nomad Jukebox Zen Xtra 40GB,player,bought rca mp3cd player happy cheap worthwhile mp3 player coomes,cheap,negative,rule-based,Creative Labs Nomad Jukebox Zen Xtra 40GB,positive,0.981,bert-based,False
+Apex AD2600 Progressive-scan DVD player,player,money get better quality player,better,positive,rule-based,Apex AD2600 Progressive-scan DVD player,positive,0.722,bert-based,True
+Apex AD2600 Progressive-scan DVD player,player,money get better quality player,better,positive,rule-based,Apex AD2600 Progressive-scan DVD player,positive,0.722,bert-based,True
+Apex AD2600 Progressive-scan DVD player,player,money get better quality player,better,positive,rule-based,Apex AD2600 Progressive-scan DVD player,positive,0.722,bert-based,True
+Apex AD2600 Progressive-scan DVD player,player,money get better quality player,better,positive,rule-based,Apex AD2600 Progressive-scan DVD player,positive,0.722,bert-based,True
+Apex AD2600 Progressive-scan DVD player,player,ok first dvd player know,first,neutral,rule-based,Apex AD2600 Progressive-scan DVD player,neutral,0.489,bert-based,True
+Apex AD2600 Progressive-scan DVD player,player,bought replace expensive 300 onkyo dvd player quit 3 years,expensive,negative,rule-based,Apex AD2600 Progressive-scan DVD player,negative,0.543,bert-based,True
+Nikon coolpix 4300,camera,cant get great pics camera havent read manual,great,positive,rule-based,Nikon coolpix 4300,negative,0.719,bert-based,False
+Nikon coolpix 4300,camera,cant get great pics camera havent read manual,great,positive,rule-based,Nikon coolpix 4300,negative,0.719,bert-based,False
+Nikon coolpix 4300,camera,cant get great pics camera havent read manual,great,positive,rule-based,Nikon coolpix 4300,negative,0.719,bert-based,False
+Nikon coolpix 4300,camera,cant get great pics camera havent read manual,great,positive,rule-based,Nikon coolpix 4300,negative,0.719,bert-based,False
